@@ -1,5 +1,4 @@
-# Terrain-Fix
-Tiled 1.8.4 OMORI TerrainTiles.json fix    
+# Terrain-Fix  
 Fix for TerrainTiles.json for use in Tiled 1.8.4 for OMORI modding.    
 
 Drop the TerrainTiles.json inside of the playtest\maps folder, then when Tiled loads TerrainTiles.json they shouldn't be a jumbled unreadable mess.    
